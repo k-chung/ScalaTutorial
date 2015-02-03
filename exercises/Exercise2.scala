@@ -9,10 +9,10 @@ object Exercise2 {
     }
 
     def adder(x: Int): (Int => Int) = {
-
+        null
     }
 
     def cubeSequence(s: Seq[Int]): Seq[Int] = {
-
+        null
     }
 }

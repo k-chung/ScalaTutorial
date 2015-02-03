@@ -14,8 +14,10 @@ object Exercise1 {
     }
 
     def recursiveFib(num: Int): Int = {
+        0
     }
 
     def iterativeFib(num: Int): Int = {
+        0
     }
 }

@@ -9,7 +9,7 @@ object Exercise3 {
 
     // return true if the value is in it
     def searchTree(search: Int, in: Tree): Boolean = {
-
+        false
     }
 
     def testSearchTree() = {
@@ -24,7 +24,7 @@ object Exercise3 {
     }
 
     def countLeaves(in: Tree): Int = {
-
+        0
     }
 
     def testCountLeaves() = {
@@ -35,7 +35,7 @@ object Exercise3 {
     }
 
     def sumOddLevels(in: Tree, levelNum: Int): Int = {
-
+        0
     }
 
     def testSumOddLevels() = {
