@@ -11,4 +11,6 @@ identifiers, but as long as it prints "Success!", you've passed the tests.
 
 ### Solutions
 
-Solutions will be posted after the tutorial.
+Solutions can be found in the `solutions` directory. Please keep in mind that 
+there are various ways to solve all these problems and these represent one 
+set of solutions. 
